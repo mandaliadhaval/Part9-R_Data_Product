@@ -61,7 +61,7 @@ shinyUI(fluidPage(
       
       # Fourth section
       h3("More information"),
-      p(a("Slides detailing the project", href="https://mandaliadhaval.github.io/R_Data_Product/Pitch_Deck")),
+      p(a("Slides detailing the project", href="https://mandaliadhaval.github.io/R_Data_Product/")),
       p(a("Github repository", href="https://github.com/mandaliadhaval/R_Data_Product/"))
     )
   )
